@@ -2,3 +2,4 @@
 Hi, This is a repository where we work to load the California Housing Data and pull some insights on top of this data. 
 Step 1: Loading the dataset using sklearn
 Step 2: Create the boxplot for the analysis
+Setp3: Create train/test
